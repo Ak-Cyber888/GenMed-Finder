@@ -1,0 +1,5 @@
+{
+  "name": "GenMed Finder ",
+  "description": "An AI-powered application to find generic names, composition details, dosages, and potential availability of medicines based on a brand name or an image of the packaging.",
+  "requestFramePermissions": []
+}
